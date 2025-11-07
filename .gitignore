@@ -9,3 +9,5 @@ node_modules/
 cloudinary_python.txt
 kaggle.json
 venv/
+data/df_resized.csv
+data/df_resized_padded.csv
