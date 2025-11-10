@@ -9,4 +9,5 @@ node_modules/
 cloudinary_python.txt
 kaggle.json
 venv/
-data/processed/
+data/processed/Resized
+data/processed/Resized+Padded
