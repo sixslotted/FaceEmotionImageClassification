@@ -1,4 +1,4 @@
 import streamlit as st
 
 def main_page():
-    st.image("images/car_price.jpg", caption="Car price analysis", use_container_width=True)
+    st.image("Data/DashboardImages/cnn-neural-networks-768x402.png", caption="Facial Expression Image Classification")

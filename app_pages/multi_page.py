@@ -4,13 +4,6 @@ class Multipage:
     def __init__(self, app_name) -> None:
         self.pages = []
         self.app_name = app_name
-
-        st.set_page_config(
-            page_title=self.app_name,
-            page_icon=":computer:",
-            layout="centered",
-            initial_sidebar_state="auto"
-        )   
         
     def add_page(self, title, func):
         self.pages.append({
